@@ -1,7 +1,13 @@
 ﻿@*@namespace Sample.Views.Employee*@
 @{
+    ViewBag.Title = "Register";
+    
+}
+<h2>Main</h2>
+@Html.ActionLink("Edit","Edit")
+@*@{
     //Layout = "~/_Register.cshtml";
-
+    ViewBag.Title = "Main";
     ViewData["Title"] = "Register";
     Employee newEmployee = new Employee()
             {
@@ -21,4 +27,4 @@
     @newEmployee.EmployeeName</br>
     @newEmployee.EmployeeDescription
 
-</div>
+</div>*@
