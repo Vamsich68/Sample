@@ -7,16 +7,24 @@ namespace Sample.Controllers
 {
     public class EmployeeController : Controller
     {
-        public IActionResult Index() { return View(); }
+        public ActionResult Index()
+        { 
+            return View(); 
+        }
+        public ActionResult Register()
+        {
+            return View();
+        }
         [HttpGet]
         public ActionResult Edit()
         {
             Employee employee = new Employee();
-            employee.EmployeeId = "59";
-            employee.EmployeeName ="Name";
-            employee.EmployeeDescription="Description";
+            //employee.EmployeeId = "59";
+            //employee.EmployeeName ="Name";
+            //employee.EmployeeDescription="Description";
             return View( employee);
-
         }
+
+        
     }
 }
