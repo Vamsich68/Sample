@@ -12,6 +12,7 @@ namespace Sample.Data
 
         public DbSet<Employee> Employees { get; set; }
     }
+
     
 
 }

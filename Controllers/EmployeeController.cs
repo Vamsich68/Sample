@@ -24,7 +24,11 @@ namespace Sample.Controllers
             //employee.EmployeeDescription="Description";
             return View( employee);
         }
-
+        //public ActionResult Create()
+        //{
+        //    Employee employee = new Employee();
+        //    return View( employee); 
+        //}
         
     }
 }
