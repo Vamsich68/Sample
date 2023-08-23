@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using Sample.Data;
+using Sample.Repo;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,6 +9,7 @@ builder.Services.AddControllersWithViews();
 //builder.Services.AddDbContext();
 builder.Services.AddDbContext<ApplicationDbContext>
     (Options => Options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+builder.Services.AddScoped<IEmployeeRepoEF , EmployeeRepoEF>();
 
 var app = builder.Build();
 

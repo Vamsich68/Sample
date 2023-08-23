@@ -1,4 +1,5 @@
-﻿using Microsoft.Data.SqlClient;
+﻿using Dapper.Contrib.Extensions;
+using Microsoft.Data.SqlClient;
 
 namespace Sample.Models
 {
@@ -14,6 +15,8 @@ namespace Sample.Models
         public string EmployeeAddress { get; set; }
 
         public string EmployeeDescription { get; set; }
+        //[Write(false)]
+        //public List<Asset> Assests { get; set;}
     }
     //public List<Employee> EmployeesList(string connectionString)
     //{

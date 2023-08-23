@@ -7,16 +7,18 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using Sample.Data;
 using Sample.Models;
+using Sample.Repo;
+
 
 namespace Sample.Controllers
 {
     public class EmployeesController : Controller
     {
-        private readonly ApplicationDbContext _context;
+        private readonly IEmployeeRepoEF _context;
 
-        public EmployeesController(ApplicationDbContext context)
+        public EmployeesController(IEmployeeRepoEF _db)
         {
-            _context = context;
+            _context = _db;
         }
         public ActionResult Register()
         {
@@ -25,21 +27,23 @@ namespace Sample.Controllers
         // GET: Employees1
         public async Task<IActionResult> Index()
         {
-            return _context.Employees != null ?
-                        View(await _context.Employees.ToListAsync()) :
-                        Problem("Entity set 'ApplicationDbContext.Employees'  is null.");
+            //return _context.Employees != null ?
+            //            View(await _context.Employees.ToListAsync()) :
+            //            Problem("Entity set 'ApplicationDbContext.Employees'  is null.");
+            return View(_context.GetAll());
         }
 
         // GET: Employees1/Details/5
         public async Task<IActionResult> Details(string id)
         {
-            if (id == null || _context.Employees == null)
+            //if (id == null || _context.Employees == null)
+            if (id == null)
             {
                 return NotFound();
             }
+            // _context.Find(id.GetValueOrDefault())
 
-            var employee = await _context.Employees
-                .FirstOrDefaultAsync(m => m.EmployeeId == id);
+            var employee = _context.Find(id);
             if (employee == null)
             {
                 return NotFound();
@@ -74,7 +78,6 @@ namespace Sample.Controllers
             if (ModelState.IsValid)
             {
                 _context.Add(employee);
-                await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
             return View(employee);
@@ -83,12 +86,12 @@ namespace Sample.Controllers
         // GET: Employees1/Edit/5
         public async Task<IActionResult> Edit(string id)
         {
-            if (id == null || _context.Employees == null)
+            if (id == null)
             {
                 return NotFound();
             }
 
-            var employee = await _context.Employees.FindAsync(id);
+            var employee = _context.Find(id);
             if (employee == null)
             {
                 return NotFound();
@@ -110,22 +113,23 @@ namespace Sample.Controllers
 
             if (ModelState.IsValid)
             {
-                try
-                {
-                    _context.Update(employee);
-                    await _context.SaveChangesAsync();
-                }
-                catch (DbUpdateConcurrencyException)
-                {
-                    if (!EmployeeExists(employee.EmployeeId))
-                    {
-                        return NotFound();
-                    }
-                    else
-                    {
-                        throw;
-                    }
-                }
+                //try
+                //{
+                //    _context.Update(employee);
+                //    await _context.SaveChangesAsync();
+                //}
+                //catch (DbUpdateConcurrencyException)
+                //{
+                //    if (!EmployeeExists(employee.EmployeeId))
+                //    {
+                //        return NotFound();
+                //    }
+                //    else
+                //    {
+                //        throw;
+                //    }
+                //}
+                _context.Update(employee);
                 return RedirectToAction(nameof(Index));
             }
             return View(employee);
@@ -134,43 +138,41 @@ namespace Sample.Controllers
         // GET: Employees1/Delete/5
         public async Task<IActionResult> Delete(string id)
         {
-            if (id == null || _context.Employees == null)
+            if (id == null)
             {
                 return NotFound();
             }
 
-            var employee = await _context.Employees
-                .FirstOrDefaultAsync(m => m.EmployeeId == id);
-            if (employee == null)
-            {
-                return NotFound();
-            }
+            _context.Remove(id);
+            return RedirectToAction(nameof(Index));
+            
 
-            return View(employee);
+            //return View(employee);
         }
 
         // POST: Employees1/Delete/5
-        [HttpPost, ActionName("Delete")]
-        [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(string id)
-        {
-            if (_context.Employees == null)
-            {
-                return Problem("Entity set 'ApplicationDbContext.Employees'  is null.");
-            }
-            var employee = await _context.Employees.FindAsync(id);
-            if (employee != null)
-            {
-                _context.Employees.Remove(employee);
-            }
+        //[HttpPost]
+        //[ActionName("Delete")]
+        //[ValidateAntiForgeryToken]
+        //public async Task<IActionResult> DeleteConfirmed(string id)
+        //{
+        //    if (_context.Employees == null)
+        //    {
+        //        return Problem("Entity set 'ApplicationDbContext.Employees'  is null.");
+        //    }
+        //    var employee = await _context.Employees.FindAsync(id);
+        //    if (employee != null)
+        //    {
+        //        _context.Employees.Remove(employee);
+        //    }
 
-            await _context.SaveChangesAsync();
-            return RedirectToAction(nameof(Index));
-        }
+        //    await _context.SaveChangesAsync();
+        //    return RedirectToAction(nameof(Index));
+        //}
 
-        private bool EmployeeExists(string id)
-        {
-            return (_context.Employees?.Any(e => e.EmployeeId == id)).GetValueOrDefault();
-        }
+        //private bool EmployeeExists(string id)
+        //{
+        //    return (_context.Employees?.Any(e => e.EmployeeId == id)).GetValueOrDefault();
+        //}
     }
 }

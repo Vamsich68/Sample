@@ -7,7 +7,7 @@
 <h1>Index</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">New Employee Registration</a>
 </p>
 <table class="table">
     <thead>
@@ -15,21 +15,21 @@
             <th>
                 @Html.DisplayNameFor(model => model.EmployeeName)
             </th>
-            <th>
+            @*<th>
                 @Html.DisplayNameFor(model => model.EmployeeAge)
-            </th>
+            </th>*@
             <th>
                 @Html.DisplayNameFor(model => model.EmployeeDesignation)
             </th>
             <th>
                 @Html.DisplayNameFor(model => model.EmployeeDepartment)
             </th>
-            <th>
+            @*<th>
                 @Html.DisplayNameFor(model => model.EmployeeAddress)
-            </th>
-            <th>
+            </th>*@
+            @*<th>
                 @Html.DisplayNameFor(model => model.EmployeeDescription)
-            </th>
+            </th>*@
             <th></th>
         </tr>
     </thead>
@@ -39,21 +39,21 @@
             <td>
                 @Html.DisplayFor(modelItem => item.EmployeeName)
             </td>
-            <td>
+            @*<td>
                 @Html.DisplayFor(modelItem => item.EmployeeAge)
-            </td>
+            </td>*@
             <td>
                 @Html.DisplayFor(modelItem => item.EmployeeDesignation)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.EmployeeDepartment)
             </td>
-            <td>
+            @*<td>
                 @Html.DisplayFor(modelItem => item.EmployeeAddress)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.EmployeeDescription)
-            </td>
+            </td>*@
             <td>
                 <a asp-action="Edit" asp-route-id="@item.EmployeeId">Edit</a> |
                 <a asp-action="Details" asp-route-id="@item.EmployeeId">Details</a> |

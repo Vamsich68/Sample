@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "m4gBszORHTE73vx4HbguGqD+EWO5DWprG2B8YUwCttBO2u6sPEFGqlO3QEl+fG7omqpncn0DDzU1D3a7Aslk8g==",
+  "dgSpecHash": "MXQA9elhFt6oUNE1g46xH95H6lNA5U+YymzJesebNma7m+lY3/2kXsTokDast6+dy3cwUV0/utMmi0K6xPDtLQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\Sample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\SAILS-DM206\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\SAILS-DM206\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
     "C:\\Users\\SAILS-DM206\\.nuget\\packages\\dapper\\2.0.151\\dapper.2.0.151.nupkg.sha512",
+    "C:\\Users\\SAILS-DM206\\.nuget\\packages\\dapper.contrib\\2.0.78\\dapper.contrib.2.0.78.nupkg.sha512",
     "C:\\Users\\SAILS-DM206\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\SAILS-DM206\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\SAILS-DM206\\.nuget\\packages\\humanizer.core.af\\2.14.1\\humanizer.core.af.2.14.1.nupkg.sha512",
