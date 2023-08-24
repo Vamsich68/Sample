@@ -1,0 +1,35 @@
+﻿@*@namespace Sample.Views.Employee*@
+@{
+    ViewBag.Title = "Register";
+    
+}
+
+<h2>Main</h2>
+
+@Html.ActionLink("Create","Create")
+@*@Html.ActionLink("Edit","Edit")*@
+
+
+@*@{
+    //Layout = "~/_Register.cshtml";
+    ViewBag.Title = "Main";
+    ViewData["Title"] = "Register";
+    Employee newEmployee = new Employee()
+            {
+                EmployeeName = "Vamsi",
+                EmployeeId = " vamsichokkapu",
+                EmployeeDescription = "madhurawada, vizag"
+            };
+
+    //public class Register{}
+
+}
+<h2>@ViewData["Title"]</h2>
+<div class="text-center">
+
+    <h3>new student details</h3>
+    @newEmployee.EmployeeId</br>
+    @newEmployee.EmployeeName</br>
+    @newEmployee.EmployeeDescription
+
+</div>*@

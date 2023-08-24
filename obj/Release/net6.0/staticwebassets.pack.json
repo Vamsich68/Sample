@@ -1,0 +1,1585 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\obj\\Release\\net6.0\\scopedcss\\projectbundle\\Sample.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Sample.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Azure.Core.dll",
+      "PackagePath": "staticwebassets\\Publish\\Azure.Core.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Azure.Identity.dll",
+      "PackagePath": "staticwebassets\\Publish\\Azure.Identity.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Dapper.dll",
+      "PackagePath": "staticwebassets\\Publish\\Dapper.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Humanizer.dll",
+      "PackagePath": "staticwebassets\\Publish\\Humanizer.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\MessagePack.Annotations.dll",
+      "PackagePath": "staticwebassets\\Publish\\MessagePack.Annotations.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\MessagePack.dll",
+      "PackagePath": "staticwebassets\\Publish\\MessagePack.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.AspNetCore.Razor.Language.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.AspNetCore.Razor.Language.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.Bcl.AsyncInterfaces.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.Bcl.AsyncInterfaces.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.Build.Framework.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.Build.Framework.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.Build.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.Build.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.CodeAnalysis.AnalyzerUtilities.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.CodeAnalysis.AnalyzerUtilities.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.CodeAnalysis.CSharp.Features.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.CodeAnalysis.CSharp.Features.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.CodeAnalysis.CSharp.Workspaces.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.CodeAnalysis.CSharp.Workspaces.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.CodeAnalysis.CSharp.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.CodeAnalysis.CSharp.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.CodeAnalysis.Features.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.CodeAnalysis.Features.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.CodeAnalysis.Razor.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.CodeAnalysis.Razor.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.CodeAnalysis.Scripting.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.CodeAnalysis.Scripting.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.CodeAnalysis.Workspaces.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.CodeAnalysis.Workspaces.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.CodeAnalysis.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.CodeAnalysis.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.Data.SqlClient.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.Data.SqlClient.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.Data.Sqlite.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.Data.Sqlite.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.DiaSymReader.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.DiaSymReader.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.DotNet.Scaffolding.Shared.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.DotNet.Scaffolding.Shared.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.EntityFrameworkCore.Abstractions.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.EntityFrameworkCore.Abstractions.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.EntityFrameworkCore.Relational.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.EntityFrameworkCore.Relational.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.EntityFrameworkCore.SqlServer.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.EntityFrameworkCore.SqlServer.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.EntityFrameworkCore.Sqlite.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.EntityFrameworkCore.Sqlite.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.EntityFrameworkCore.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.EntityFrameworkCore.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.Extensions.Caching.Abstractions.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.Extensions.Caching.Abstractions.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.Extensions.Caching.Memory.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.Extensions.Caching.Memory.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.Extensions.Configuration.Abstractions.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.Extensions.Configuration.Abstractions.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.Extensions.DependencyInjection.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.Extensions.DependencyInjection.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.Extensions.DependencyModel.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.Extensions.DependencyModel.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.Extensions.Logging.Abstractions.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.Extensions.Logging.Abstractions.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.Extensions.Logging.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.Extensions.Logging.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.Extensions.Options.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.Extensions.Options.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.Extensions.Primitives.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.Extensions.Primitives.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.Identity.Client.Extensions.Msal.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.Identity.Client.Extensions.Msal.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.Identity.Client.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.Identity.Client.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.IdentityModel.Abstractions.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.IdentityModel.Abstractions.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.IdentityModel.JsonWebTokens.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.IdentityModel.JsonWebTokens.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.IdentityModel.Logging.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.IdentityModel.Logging.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.IdentityModel.Protocols.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.IdentityModel.Protocols.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.IdentityModel.Tokens.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.IdentityModel.Tokens.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.NET.StringTools.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.NET.StringTools.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.SqlServer.Server.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.SqlServer.Server.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.VisualStudio.Debugger.Contracts.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.VisualStudio.Debugger.Contracts.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.VisualStudio.Web.CodeGeneration.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.VisualStudio.Web.CodeGeneration.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Microsoft.Win32.SystemEvents.dll",
+      "PackagePath": "staticwebassets\\Publish\\Microsoft.Win32.SystemEvents.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Newtonsoft.Json.dll",
+      "PackagePath": "staticwebassets\\Publish\\Newtonsoft.Json.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\NuGet.Common.dll",
+      "PackagePath": "staticwebassets\\Publish\\NuGet.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\NuGet.Configuration.dll",
+      "PackagePath": "staticwebassets\\Publish\\NuGet.Configuration.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\NuGet.DependencyResolver.Core.dll",
+      "PackagePath": "staticwebassets\\Publish\\NuGet.DependencyResolver.Core.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\NuGet.Frameworks.dll",
+      "PackagePath": "staticwebassets\\Publish\\NuGet.Frameworks.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\NuGet.LibraryModel.dll",
+      "PackagePath": "staticwebassets\\Publish\\NuGet.LibraryModel.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\NuGet.Packaging.dll",
+      "PackagePath": "staticwebassets\\Publish\\NuGet.Packaging.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\NuGet.ProjectModel.dll",
+      "PackagePath": "staticwebassets\\Publish\\NuGet.ProjectModel.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\NuGet.Protocol.dll",
+      "PackagePath": "staticwebassets\\Publish\\NuGet.Protocol.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\NuGet.Versioning.dll",
+      "PackagePath": "staticwebassets\\Publish\\NuGet.Versioning.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\SQLitePCLRaw.batteries_v2.dll",
+      "PackagePath": "staticwebassets\\Publish\\SQLitePCLRaw.batteries_v2.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\SQLitePCLRaw.core.dll",
+      "PackagePath": "staticwebassets\\Publish\\SQLitePCLRaw.core.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\SQLitePCLRaw.provider.e_sqlite3.dll",
+      "PackagePath": "staticwebassets\\Publish\\SQLitePCLRaw.provider.e_sqlite3.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Sample.deps.json",
+      "PackagePath": "staticwebassets\\Publish\\Sample.deps.json"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Sample.dll",
+      "PackagePath": "staticwebassets\\Publish\\Sample.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Sample.exe",
+      "PackagePath": "staticwebassets\\Publish\\Sample.exe"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Sample.pdb",
+      "PackagePath": "staticwebassets\\Publish\\Sample.pdb"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\Sample.runtimeconfig.json",
+      "PackagePath": "staticwebassets\\Publish\\Sample.runtimeconfig.json"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\System.Composition.AttributedModel.dll",
+      "PackagePath": "staticwebassets\\Publish\\System.Composition.AttributedModel.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\System.Composition.Convention.dll",
+      "PackagePath": "staticwebassets\\Publish\\System.Composition.Convention.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\System.Composition.Hosting.dll",
+      "PackagePath": "staticwebassets\\Publish\\System.Composition.Hosting.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\System.Composition.Runtime.dll",
+      "PackagePath": "staticwebassets\\Publish\\System.Composition.Runtime.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\System.Composition.TypedParts.dll",
+      "PackagePath": "staticwebassets\\Publish\\System.Composition.TypedParts.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\System.Configuration.ConfigurationManager.dll",
+      "PackagePath": "staticwebassets\\Publish\\System.Configuration.ConfigurationManager.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\System.Drawing.Common.dll",
+      "PackagePath": "staticwebassets\\Publish\\System.Drawing.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\System.IdentityModel.Tokens.Jwt.dll",
+      "PackagePath": "staticwebassets\\Publish\\System.IdentityModel.Tokens.Jwt.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\System.Memory.Data.dll",
+      "PackagePath": "staticwebassets\\Publish\\System.Memory.Data.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\System.Reflection.MetadataLoadContext.dll",
+      "PackagePath": "staticwebassets\\Publish\\System.Reflection.MetadataLoadContext.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\System.Runtime.Caching.dll",
+      "PackagePath": "staticwebassets\\Publish\\System.Runtime.Caching.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\System.Security.Cryptography.ProtectedData.dll",
+      "PackagePath": "staticwebassets\\Publish\\System.Security.Cryptography.ProtectedData.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\System.Security.Permissions.dll",
+      "PackagePath": "staticwebassets\\Publish\\System.Security.Permissions.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\System.Text.Encodings.Web.dll",
+      "PackagePath": "staticwebassets\\Publish\\System.Text.Encodings.Web.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\System.Text.Json.dll",
+      "PackagePath": "staticwebassets\\Publish\\System.Text.Json.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\System.Windows.Extensions.dll",
+      "PackagePath": "staticwebassets\\Publish\\System.Windows.Extensions.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\af\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\af\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\Publish\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\appsettings.json",
+      "PackagePath": "staticwebassets\\Publish\\appsettings.json"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\appsettings.production.json",
+      "PackagePath": "staticwebassets\\Publish\\appsettings.production.json"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ar\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ar\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\az\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\az\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\bg\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\bg\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\bn-BD\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\bn-BD\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\cs\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\cs\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\cs\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\cs\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\cs\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\cs\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\cs\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\cs\\Microsoft.CodeAnalysis.CSharp.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\cs\\Microsoft.CodeAnalysis.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\cs\\Microsoft.CodeAnalysis.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\cs\\Microsoft.CodeAnalysis.Scripting.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\cs\\Microsoft.CodeAnalysis.Scripting.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\cs\\Microsoft.CodeAnalysis.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\cs\\Microsoft.CodeAnalysis.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\cs\\Microsoft.CodeAnalysis.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\cs\\Microsoft.CodeAnalysis.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\da\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\da\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\de\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\de\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\de\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\de\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\de\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\de\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\de\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\de\\Microsoft.CodeAnalysis.CSharp.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\de\\Microsoft.CodeAnalysis.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\de\\Microsoft.CodeAnalysis.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\de\\Microsoft.CodeAnalysis.Scripting.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\de\\Microsoft.CodeAnalysis.Scripting.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\de\\Microsoft.CodeAnalysis.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\de\\Microsoft.CodeAnalysis.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\de\\Microsoft.CodeAnalysis.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\de\\Microsoft.CodeAnalysis.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\dotnet-aspnet-codegenerator-design.dll",
+      "PackagePath": "staticwebassets\\Publish\\dotnet-aspnet-codegenerator-design.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\el\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\el\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\es\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\es\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\es\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\es\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\es\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\es\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\es\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\es\\Microsoft.CodeAnalysis.CSharp.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\es\\Microsoft.CodeAnalysis.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\es\\Microsoft.CodeAnalysis.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\es\\Microsoft.CodeAnalysis.Scripting.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\es\\Microsoft.CodeAnalysis.Scripting.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\es\\Microsoft.CodeAnalysis.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\es\\Microsoft.CodeAnalysis.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\es\\Microsoft.CodeAnalysis.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\es\\Microsoft.CodeAnalysis.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\fa\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\fa\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\fi-FI\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\fi-FI\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\fr-BE\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\fr-BE\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\fr\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\fr\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\fr\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\fr\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\fr\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\fr\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\fr\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\fr\\Microsoft.CodeAnalysis.CSharp.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\fr\\Microsoft.CodeAnalysis.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\fr\\Microsoft.CodeAnalysis.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\fr\\Microsoft.CodeAnalysis.Scripting.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\fr\\Microsoft.CodeAnalysis.Scripting.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\fr\\Microsoft.CodeAnalysis.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\fr\\Microsoft.CodeAnalysis.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\fr\\Microsoft.CodeAnalysis.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\fr\\Microsoft.CodeAnalysis.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\he\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\he\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\hr\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\hr\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\hu\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\hu\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\hy\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\hy\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\id\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\id\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\is\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\is\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\it\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\it\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\it\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\it\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\it\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\it\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\it\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\it\\Microsoft.CodeAnalysis.CSharp.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\it\\Microsoft.CodeAnalysis.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\it\\Microsoft.CodeAnalysis.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\it\\Microsoft.CodeAnalysis.Scripting.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\it\\Microsoft.CodeAnalysis.Scripting.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\it\\Microsoft.CodeAnalysis.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\it\\Microsoft.CodeAnalysis.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\it\\Microsoft.CodeAnalysis.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\it\\Microsoft.CodeAnalysis.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ja\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ja\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ja\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ja\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ja\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ja\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ja\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ja\\Microsoft.CodeAnalysis.CSharp.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ja\\Microsoft.CodeAnalysis.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ja\\Microsoft.CodeAnalysis.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ja\\Microsoft.CodeAnalysis.Scripting.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ja\\Microsoft.CodeAnalysis.Scripting.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ja\\Microsoft.CodeAnalysis.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ja\\Microsoft.CodeAnalysis.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ja\\Microsoft.CodeAnalysis.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ja\\Microsoft.CodeAnalysis.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ko-KR\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ko-KR\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ko\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ko\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ko\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ko\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ko\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ko\\Microsoft.CodeAnalysis.CSharp.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ko\\Microsoft.CodeAnalysis.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ko\\Microsoft.CodeAnalysis.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ko\\Microsoft.CodeAnalysis.Scripting.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ko\\Microsoft.CodeAnalysis.Scripting.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ko\\Microsoft.CodeAnalysis.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ko\\Microsoft.CodeAnalysis.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ko\\Microsoft.CodeAnalysis.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ko\\Microsoft.CodeAnalysis.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ku\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ku\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\lv\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\lv\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ms-MY\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ms-MY\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\mt\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\mt\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\nb-NO\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\nb-NO\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\nb\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\nb\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\nl\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\nl\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\pl\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\pl\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\pl\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\pl\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\pl\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\pl\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\pl\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\pl\\Microsoft.CodeAnalysis.CSharp.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\pl\\Microsoft.CodeAnalysis.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\pl\\Microsoft.CodeAnalysis.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\pl\\Microsoft.CodeAnalysis.Scripting.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\pl\\Microsoft.CodeAnalysis.Scripting.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\pl\\Microsoft.CodeAnalysis.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\pl\\Microsoft.CodeAnalysis.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\pl\\Microsoft.CodeAnalysis.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\pl\\Microsoft.CodeAnalysis.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\pt-BR\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\pt-BR\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\pt-BR\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\pt-BR\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\pt-BR\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\pt-BR\\Microsoft.CodeAnalysis.CSharp.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\pt-BR\\Microsoft.CodeAnalysis.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\pt-BR\\Microsoft.CodeAnalysis.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\pt-BR\\Microsoft.CodeAnalysis.Scripting.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\pt-BR\\Microsoft.CodeAnalysis.Scripting.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\pt-BR\\Microsoft.CodeAnalysis.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\pt-BR\\Microsoft.CodeAnalysis.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\pt-BR\\Microsoft.CodeAnalysis.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\pt-BR\\Microsoft.CodeAnalysis.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\pt\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\pt\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ro\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ro\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ru\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ru\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ru\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ru\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ru\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ru\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ru\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ru\\Microsoft.CodeAnalysis.CSharp.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ru\\Microsoft.CodeAnalysis.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ru\\Microsoft.CodeAnalysis.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ru\\Microsoft.CodeAnalysis.Scripting.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ru\\Microsoft.CodeAnalysis.Scripting.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ru\\Microsoft.CodeAnalysis.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ru\\Microsoft.CodeAnalysis.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\ru\\Microsoft.CodeAnalysis.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\ru\\Microsoft.CodeAnalysis.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\alpine-arm64\\native\\libe_sqlite3.so",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\alpine-arm64\\native\\libe_sqlite3.so"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\alpine-arm\\native\\libe_sqlite3.so",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\alpine-arm\\native\\libe_sqlite3.so"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\alpine-x64\\native\\libe_sqlite3.so",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\alpine-x64\\native\\libe_sqlite3.so"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\browser-wasm\\nativeassets\\net6.0\\e_sqlite3.a",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\browser-wasm\\nativeassets\\net6.0\\e_sqlite3.a"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\browser\\lib\\net6.0\\System.Text.Encodings.Web.dll",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\browser\\lib\\net6.0\\System.Text.Encodings.Web.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\linux-arm64\\native\\libe_sqlite3.so",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\linux-arm64\\native\\libe_sqlite3.so"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\linux-arm\\native\\libe_sqlite3.so",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\linux-arm\\native\\libe_sqlite3.so"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\linux-armel\\native\\libe_sqlite3.so",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\linux-armel\\native\\libe_sqlite3.so"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\linux-mips64\\native\\libe_sqlite3.so",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\linux-mips64\\native\\libe_sqlite3.so"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\linux-musl-arm64\\native\\libe_sqlite3.so",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\linux-musl-arm64\\native\\libe_sqlite3.so"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\linux-musl-arm\\native\\libe_sqlite3.so",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\linux-musl-arm\\native\\libe_sqlite3.so"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\linux-musl-x64\\native\\libe_sqlite3.so",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\linux-musl-x64\\native\\libe_sqlite3.so"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\linux-s390x\\native\\libe_sqlite3.so",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\linux-s390x\\native\\libe_sqlite3.so"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\linux-x64\\native\\libe_sqlite3.so",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\linux-x64\\native\\libe_sqlite3.so"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\linux-x86\\native\\libe_sqlite3.so",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\linux-x86\\native\\libe_sqlite3.so"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\maccatalyst-arm64\\native\\libe_sqlite3.dylib",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\maccatalyst-arm64\\native\\libe_sqlite3.dylib"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\maccatalyst-x64\\native\\libe_sqlite3.dylib",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\maccatalyst-x64\\native\\libe_sqlite3.dylib"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\osx-arm64\\native\\libe_sqlite3.dylib",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\osx-arm64\\native\\libe_sqlite3.dylib"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\osx-x64\\native\\libe_sqlite3.dylib",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\osx-x64\\native\\libe_sqlite3.dylib"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\unix\\lib\\net6.0\\System.Drawing.Common.dll",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\unix\\lib\\net6.0\\System.Drawing.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\unix\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\unix\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\win-arm64\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\win-arm64\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\win-arm64\\native\\e_sqlite3.dll",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\win-arm64\\native\\e_sqlite3.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\win-arm\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\win-arm\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\win-arm\\native\\e_sqlite3.dll",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\win-arm\\native\\e_sqlite3.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\win-x64\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\win-x64\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\win-x64\\native\\e_sqlite3.dll",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\win-x64\\native\\e_sqlite3.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\win-x86\\native\\Microsoft.Data.SqlClient.SNI.dll",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\win-x86\\native\\Microsoft.Data.SqlClient.SNI.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\win-x86\\native\\e_sqlite3.dll",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\win-x86\\native\\e_sqlite3.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\win\\lib\\net6.0\\Microsoft.Win32.SystemEvents.dll",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\win\\lib\\net6.0\\Microsoft.Win32.SystemEvents.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\win\\lib\\net6.0\\System.Drawing.Common.dll",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\win\\lib\\net6.0\\System.Drawing.Common.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\win\\lib\\net6.0\\System.Security.Cryptography.ProtectedData.dll",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\win\\lib\\net6.0\\System.Security.Cryptography.ProtectedData.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\win\\lib\\net6.0\\System.Windows.Extensions.dll",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\win\\lib\\net6.0\\System.Windows.Extensions.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\win\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\win\\lib\\netcoreapp3.1\\Microsoft.Data.SqlClient.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\runtimes\\win\\lib\\netstandard2.0\\System.Runtime.Caching.dll",
+      "PackagePath": "staticwebassets\\Publish\\runtimes\\win\\lib\\netstandard2.0\\System.Runtime.Caching.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\sk\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\sk\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\sl\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\sl\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\sr-Latn\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\sr-Latn\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\sr\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\sr\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\sv\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\sv\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\th-TH\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\th-TH\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\tr\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\tr\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\tr\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\tr\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\tr\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\tr\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\tr\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\tr\\Microsoft.CodeAnalysis.CSharp.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\tr\\Microsoft.CodeAnalysis.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\tr\\Microsoft.CodeAnalysis.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\tr\\Microsoft.CodeAnalysis.Scripting.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\tr\\Microsoft.CodeAnalysis.Scripting.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\tr\\Microsoft.CodeAnalysis.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\tr\\Microsoft.CodeAnalysis.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\tr\\Microsoft.CodeAnalysis.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\tr\\Microsoft.CodeAnalysis.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\uk\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\uk\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\uz-Cyrl-UZ\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\uz-Cyrl-UZ\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\uz-Latn-UZ\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\uz-Latn-UZ\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\vi\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\vi\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\web.config",
+      "PackagePath": "staticwebassets\\Publish\\web.config"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\Sample.styles.css",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\Sample.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\Publish\\wwwroot\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\zh-CN\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\zh-CN\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\zh-Hans\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\zh-Hans\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\zh-Hans\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\zh-Hans\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\zh-Hans\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\zh-Hans\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\zh-Hans\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\zh-Hans\\Microsoft.CodeAnalysis.CSharp.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\zh-Hans\\Microsoft.CodeAnalysis.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\zh-Hans\\Microsoft.CodeAnalysis.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\zh-Hans\\Microsoft.CodeAnalysis.Scripting.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\zh-Hans\\Microsoft.CodeAnalysis.Scripting.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\zh-Hans\\Microsoft.CodeAnalysis.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\zh-Hans\\Microsoft.CodeAnalysis.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\zh-Hans\\Microsoft.CodeAnalysis.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\zh-Hans\\Microsoft.CodeAnalysis.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\zh-Hant\\Humanizer.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\zh-Hant\\Humanizer.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\zh-Hant\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\zh-Hant\\Microsoft.CodeAnalysis.CSharp.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\zh-Hant\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\zh-Hant\\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\zh-Hant\\Microsoft.CodeAnalysis.CSharp.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\zh-Hant\\Microsoft.CodeAnalysis.CSharp.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\zh-Hant\\Microsoft.CodeAnalysis.Features.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\zh-Hant\\Microsoft.CodeAnalysis.Features.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\zh-Hant\\Microsoft.CodeAnalysis.Scripting.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\zh-Hant\\Microsoft.CodeAnalysis.Scripting.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\zh-Hant\\Microsoft.CodeAnalysis.Workspaces.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\zh-Hant\\Microsoft.CodeAnalysis.Workspaces.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\Publish\\zh-Hant\\Microsoft.CodeAnalysis.resources.dll",
+      "PackagePath": "staticwebassets\\Publish\\zh-Hant\\Microsoft.CodeAnalysis.resources.dll"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\SAILS-DM206\\Desktop\\Training\\Projects\\Sample\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.Sample.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.build.Sample.props",
+      "PackagePath": "build\\Sample.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Sample.props",
+      "PackagePath": "buildMultiTargeting\\Sample.props"
+    },
+    {
+      "Id": "obj\\Release\\net6.0\\staticwebassets\\msbuild.buildTransitive.Sample.props",
+      "PackagePath": "buildTransitive\\Sample.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
