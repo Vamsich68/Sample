@@ -2,7 +2,7 @@
 
 namespace Sample.Repo
 {
-    public interface IEmployeeRepoEF
+    public interface IEmployeeRepo
     {
         Employee Find(string id);
         List<Employee> GetAll();

@@ -4,7 +4,7 @@ using System.Reflection;
 
 namespace Sample.Repo
 {
-    public class EmployeeRepoEF : IEmployeeRepoEF
+    public class EmployeeRepoEF : IEmployeeRepo
     {
         private readonly ApplicationDbContext _db;
 

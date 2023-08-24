@@ -14,9 +14,9 @@ namespace Sample.Controllers
 {
     public class EmployeesController : Controller
     {
-        private readonly IEmployeeRepoEF _context;
+        private readonly IEmployeeRepo _context;
 
-        public EmployeesController(IEmployeeRepoEF _db)
+        public EmployeesController(IEmployeeRepo _db)
         {
             _context = _db;
         }
