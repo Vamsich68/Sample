@@ -6,60 +6,39 @@
 
 <h1>Index</h1>
 
+
 <p>
-    <a asp-action="Create">New Employee Registration</a>
+    <a asp-action="Create" class="button" style="background-color:orangered">New Registartion</a>
 </p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.EmployeeName)
-            </th>
-            @*<th>
-                @Html.DisplayNameFor(model => model.EmployeeAge)
-            </th>*@
-            <th>
-                @Html.DisplayNameFor(model => model.EmployeeDesignation)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.EmployeeDepartment)
-            </th>
-            @*<th>
-                @Html.DisplayNameFor(model => model.EmployeeAddress)
-            </th>*@
-            @*<th>
-                @Html.DisplayNameFor(model => model.EmployeeDescription)
-            </th>*@
-            <th></th>
-        </tr>
-    </thead>
+<table class="table"> 
+    <tr>
+        <th>Actions</th>
+        <th>EmployeeName</th>
+        <th>EmployeeDepartment</th>
+        <th>EmployeeDesignation</th>
+        @*<th>@Html.DisplayNameFor(model => model.EmployeeName) </th>
+        <th>@Html.DisplayNameFor(model => model.EmployeeDepartment) </th>
+        <th>@Html.DisplayNameFor(model => model.EmployeeDesignation) </th>*@
+        
+    </tr>
     <tbody>
-@foreach (var item in Model) {
+    @foreach(var temp in Model)
+    {
         <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.EmployeeName)
-            </td>
-            @*<td>
-                @Html.DisplayFor(modelItem => item.EmployeeAge)
-            </td>*@
-            <td>
-                @Html.DisplayFor(modelItem => item.EmployeeDesignation)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.EmployeeDepartment)
-            </td>
-            @*<td>
-                @Html.DisplayFor(modelItem => item.EmployeeAddress)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.EmployeeDescription)
-            </td>*@
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.EmployeeId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.EmployeeId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.EmployeeId">Delete</a>
-            </td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@temp.EmployeeId" class="button">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@temp.EmployeeId" class="button button2">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@temp.EmployeeId" class="button button3">Delete</a> |
+                </td>
+            <td> @Html.DisplayFor(item => temp.EmployeeName)</td>
+            <td> @Html.DisplayFor(item => temp.EmployeeDepartment)</td>
+            <td> @Html.DisplayFor(item => temp.EmployeeDesignation)</td>
+            
         </tr>
-}
+
+    }
     </tbody>
 </table>
+
+
+
