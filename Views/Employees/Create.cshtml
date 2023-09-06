@@ -10,7 +10,7 @@
 <hr />
 <div>
     <div>
-    <form asp-action="View">
+    <form asp-action="Create">
         <div>
             @*<label asp-for="EmployeeDescription" class="control-label"></label>
             <input asp-for="EmployeeDescription" class="form-control" />
@@ -46,16 +46,16 @@
             <div class="form-group">
                 <input type="submit" value="Submit" class="btn btn-primary" asp-action="Create" />
             </div>
-            <div>
-                <a asp-action="Register">Back to List</a>
-            </div>
-
     </form>
+        
     </div>
 
 </div>
 
-
+<div>
+    <a asp-action="Register">Back to List</a>
+    <a asp-action="List">View list</a>
+</div>
 
 
 

@@ -10,7 +10,10 @@
 <p>
     <a asp-action="Create" class="button" style="background-color:orangered">New Registartion</a>
 </p>
-<table class="table"> 
+<p>
+    <a asp-action="List">View List</a>
+</p>
+<table class="table">
     <tr>
         <th>Actions</th>
         <th>EmployeeName</th>
@@ -30,9 +33,9 @@
                     <a asp-action="Details" asp-route-id="@temp.EmployeeId" class="button button2">Details</a> |
                     <a asp-action="Delete" asp-route-id="@temp.EmployeeId" class="button button3">Delete</a> |
                 </td>
-            <td> @Html.DisplayFor(item => temp.EmployeeName)</td>
-            <td> @Html.DisplayFor(item => temp.EmployeeDepartment)</td>
-            <td> @Html.DisplayFor(item => temp.EmployeeDesignation)</td>
+                <td> @Html.DisplayFor(item => temp.EmployeeName)</td>
+                <td> @Html.DisplayFor(item => temp.EmployeeDepartment)</td>
+                <td> @Html.DisplayFor(item => temp.EmployeeDesignation)</td>
             
         </tr>
 

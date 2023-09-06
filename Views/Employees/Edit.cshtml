@@ -13,6 +13,50 @@
         <form asp-action="Edit">
             <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <input type="hidden" asp-for="EmployeeId" />
+                <div>
+                <label asp-for="EmployeeId">EmployeeId</label><br>
+                <input asp-for="EmployeeId" class="form-control" asp-validation-for="EmployeeId"></input>
+                </div>
+
+                <div>
+                    <label asp-for="EmployeeName">EmployeeName</label><br>
+                <input asp-for="EmployeeName" class="form-control" asp-validation-for="EmployeeName"></input>
+                </div>
+                <div>
+                    <label asp-for="EmployeeAge">EmployeeAge</label><br>
+                <input asp-for="EmployeeAge" class="form-control" asp-validation-for="EmployeeAge"></input>
+                </div>
+                <div>
+                    <label asp-for="EmployeeDesignation">EmployeeDesignation</label><br>
+                <input asp-for="EmployeeDesignation" class="form-control" asp-validation-for="EmployeeDesignation"></input>
+                </div>
+                <div>
+                    <label asp-for="EmployeeDepartment">EmployeeDepartment</label><br>
+                    <input asp-for="EmployeeDepartment" class="form-control" asp-validation-for="EmployeeDepartment"></input>
+                </div>
+                <div>
+                    <label asp-for="EmployeeAddress">EmployeeAddress</label><br>
+                <input asp-for="EmployeeAddress" class="form-control" asp-validation-for="EmployeeAddress"></input>
+                </div>
+                <div>
+                    <label asp-for="EmployeeDescription">EmployeeDescription</label><br>
+                <input asp-for="EmployeeDescription" class="form-control" asp-validation-for="EmployeeDescription"></input>
+                </div>
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+@*<div class="row">
+    <div class="col-md-4">
+        <form asp-action="Edit">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="EmployeeId" />
             <div class="form-group">
                 <label asp-for="EmployeeName" class="control-label"></label>
                 <input asp-for="EmployeeName" class="form-control" />
@@ -48,12 +92,7 @@
             </div>
         </form>
     </div>
-</div>
-
-<div>
-    <a asp-action="Index">Back to List</a>
-</div>
-
+</div>*@
 @section Scripts {
     @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
 }

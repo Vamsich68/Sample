@@ -24,6 +24,10 @@ namespace Sample.Controllers
         {
             return View();
         }
+        public ActionResult List()
+        {
+            return View(_context.GetAll());  
+        }
         // GET: Employees1
         public async Task<IActionResult> Index()
         {
