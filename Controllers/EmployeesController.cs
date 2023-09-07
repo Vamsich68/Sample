@@ -24,17 +24,35 @@ namespace Sample.Controllers
         {
             return View();
         }
-        public ActionResult List()
+        public async Task<ActionResult> Index( string child)
         {
-            return View(_context.GetAll());  
+            if (string.IsNullOrWhiteSpace(child))
+            {
+                return View(_context.GetAll());
+            }
+            else
+            {
+                var searchitem = _context.GetAll().Where(s=>s.EmployeeId.Contains(child));
+                return View(searchitem);
+            }
+            
         }
         // GET: Employees1
-        public async Task<IActionResult> Index()
+        public async Task<ActionResult> List( string child)
         {
+            if (string.IsNullOrEmpty(child))
+            {
+                return View( _context.GetAll());
+            }
             //return _context.Employees != null ?
             //            View(await _context.Employees.ToListAsync()) :
             //            Problem("Entity set 'ApplicationDbContext.Employees'  is null.");
-            return View(_context.GetAll());
+            //return View(_context.GetAll());
+            else
+            {
+                var searchitem =  _context.GetAll().Where(s => s.EmployeeId.Contains(child));
+                return View(searchitem);
+            }
         }
 
         // GET: Employees1/Details/5
@@ -133,7 +151,7 @@ namespace Sample.Controllers
                 //        throw;
                 //    }
                 //}
-                _context.Update(employee);
+                 _context.Update(employee);
                 return RedirectToAction(nameof(Index));
             }
             return View(employee);

@@ -5,14 +5,39 @@
 }
 
 <h1>Index</h1>
-
-
-<p>
-    <a asp-action="Create" class="button" style="background-color:orangered">New Registartion</a>
-</p>
 <p>
     <a asp-action="List">View List</a>
 </p>
+
+<div class="input-group container1">
+    <div>
+        <p>
+            <a asp-action="Create" class="button" style="background-color:orangered">New Registartion</a>
+        </p>
+
+    </div>
+    <div>
+        <form asp-action="Index">
+            <div class="input-group cs1">
+
+                <input type="text" name="child" placeholder="Search" aria-label="Search" class="user-box " />
+                <input type="submit" value=" search" id="basic-text1" />
+
+            </div>
+        </form>
+    </div>
+</div>
+
+@section scripts{
+    <script>
+        $(function () {
+            $("basic-text1").click(function () {
+                $("Form").submit();
+            })
+        });
+    </script>
+}
+
 <table class="table">
     <tr>
         <th>Actions</th>

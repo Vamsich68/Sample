@@ -5,6 +5,33 @@
 }
 
 <h1>List</h1>
+@*<div>
+    <label  class="col-sm-2">EmployeeId</label><br>
+    <input  class="text-box" asp-validation-for="EmployeeId"></input>
+    <a asp-action="Details" asp-route-id="EmployeeId">search</a>
+</div>
+<input type="text" asp-route-id="EmployeeId" name="Seach ID" id="EmployeeId"></input>
+<a asp-action="Details" asp-route-id="EmployeeId" >search</a>
+*@
+<form  asp-action="List" >
+    <div class="input-group">
+        
+            <input type="text" name="child" placeholder="Search" aria-label="Search" class="form-control" />
+            <input type="submit" value=" search" id="basic-text1"/>
+            
+    </div>
+         
+ 
+</form>
+@section scripts{
+    <script>
+    $(function (){
+        $("basic-text1").click(function(){
+            $("Form").submit();
+        })
+    });
+    </script>
+}
 
 <p>
     <a asp-action="Create">Create New</a>

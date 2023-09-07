@@ -65,7 +65,7 @@ namespace Sample.Repo
 
         public Employee Update(Employee employee)
         {
-            var sql = "UPDATE INTO Employees SET EmployeeId = @EmployeeId, EmployeeName=@EmployeeName, EmployeeAge=@EmployeeAge,EmployeeDesignation=@EmployeeDesignation, EmployeeAddress=@EmployeeAddress, EmployeeDescription=@EmployeeDescription WHERE EmployeeId=@EmployeeId";
+            var sql = "UPDATE Employees SET EmployeeId = @EmployeeId, EmployeeName=@EmployeeName, EmployeeAge=@EmployeeAge,EmployeeDesignation=@EmployeeDesignation, EmployeeAddress=@EmployeeAddress, EmployeeDescription=@EmployeeDescription WHERE EmployeeId=@EmployeeId";
                
             db.Execute(sql, employee);
             return employee;
