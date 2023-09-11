@@ -77,7 +77,9 @@ namespace Sample.Controllers
         // GET: Employees/Create
         public ActionResult Create()
         {
-            return View();
+            var employee = new Employee();
+            employee.EmployeeDescription = "Vamsi";
+            return View(employee);
         }
         //public ActionResult Edit()
         //{

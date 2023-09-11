@@ -9,7 +9,8 @@ builder.Services.AddControllersWithViews();
 //builder.Services.AddDbContext();
 builder.Services.AddDbContext<ApplicationDbContext>
     (Options => Options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
-builder.Services.AddScoped<IEmployeeRepo , EmployeeRepo>();
+builder.Services.AddScoped<IEmployeeRepo, EmployeeRepoSP>();
+//builder.Services.AddScoped<IEmployeeRepo , EmployeeRepo>();
 
 var app = builder.Build();
 
