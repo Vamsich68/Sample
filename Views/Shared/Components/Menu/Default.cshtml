@@ -1,0 +1,12 @@
+﻿@model IEnumerable<Employee>
+<li class="nav-item dropdown">
+    <a class="nav-link dropdown-toggle" id="navbarDarkDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false" asp-controller="Employees" asp-action="Index">
+        Employees
+    </a>
+    
+       
+    <ul class="dropdown-menu" aria-labelledby="navbardarkdropdownmenulink">
+        <li><a class="dropdown-item" style="background-color:brown" >@Model.Count() </a></li>
+    </ul>
+       
+</li>
