@@ -10,7 +10,7 @@
 <hr />
 <div>
     <div >
-    <form asp-action="Create">
+        <form asp-action="Create">
         <div>
                 <label asp-for="EmployeeId" class="col-sm-2">EmployeeId</label><br>
                 <input asp-for="EmployeeId" class="text-box" asp-validation-for="EmployeeId" />
@@ -40,7 +40,30 @@
                 <input asp-for="EmployeeDescription" class="text-box" asp-validation-for="EmployeeDescription"></input>
         </div>
             <div>
+                <form>
+                    <div class="input-group ">
+
+                        <button type="submit" class="btn btn-primary" asp-action="Create"> Submit</button>
+
+                    </div>
+                </form>
+                
+                @*
+                <input type="button" value="Submit" class="btn btn-primary" asp-action="Create" id="basic-text1"/>
                 <button type="submit"  class="btn btn-primary" asp-action="Create"> Submit</button>
+                @section scripts{
+                <script>
+                    $(function () {
+                            $("basic-text1").click(
+                                Swal.fire(
+                                    'Good job!',
+                                    'You clicked the button!',
+                                    'success'
+                                ))
+                    });
+                </script>
+                }
+                *@
             </div>
          
     </form>

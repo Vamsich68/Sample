@@ -6,6 +6,11 @@ var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddAuthentication("MyCookieAuth").AddCookie("MyCookieAuth", options =>
+{
+    options.Cookie.Name = "MyCookieAuth";
+    //options.LoginPath = "/Account/Login"; 
+});
 //builder.Services.AddDbContext();
 builder.Services.AddDbContext<ApplicationDbContext>
     (Options => Options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
@@ -26,7 +31,7 @@ app.UseHttpsRedirection();
 app.UseStaticFiles();
 
 app.UseRouting();
-
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(

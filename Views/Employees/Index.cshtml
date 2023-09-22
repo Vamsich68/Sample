@@ -6,6 +6,16 @@
 
 <h1 style="text-align:center">Index</h1>
 <h3 style="text-align:center">Employee Dashboard</h3>
+@section scripts
+{
+    <script>
+        Swal.fire(
+            'Good job!',
+            'You clicked the button!',
+            'success'
+        )</script>
+}
+
 @*<p>
     <a asp-action="List">View List</a>
 </p>*@
@@ -29,7 +39,7 @@
     </div>
 </div>
 
-@section scripts{
+@*@section scripts{
     <script>
         $(function () {
             $("basic-text1").click(function () {
@@ -37,10 +47,10 @@
             })
         });
     </script>
-}
+}*@
 
-<table class="table">
-    <tr>
+<table class="table table-bordered table-striped">
+    <tr style="background-color:blueviolet">
         <th>Actions</th>
         <th>EmployeeName</th>
         <th>EmployeeDepartment</th>
@@ -48,7 +58,6 @@
         @*<th>@Html.DisplayNameFor(model => model.EmployeeName) </th>
         <th>@Html.DisplayNameFor(model => model.EmployeeDepartment) </th>
         <th>@Html.DisplayNameFor(model => model.EmployeeDesignation) </th>*@
-        
     </tr>
     <tbody>
     @foreach(var temp in Model)
