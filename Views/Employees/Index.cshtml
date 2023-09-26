@@ -4,62 +4,77 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
-
-<p>
-    <a asp-action="Create">New Employee Registration</a>
-</p>
-<table class="table">
-    <thead>
-        <tr>
-            <th>
-                @Html.DisplayNameFor(model => model.EmployeeName)
-            </th>
-            @*<th>
-                @Html.DisplayNameFor(model => model.EmployeeAge)
-            </th>*@
-            <th>
-                @Html.DisplayNameFor(model => model.EmployeeDesignation)
-            </th>
-            <th>
-                @Html.DisplayNameFor(model => model.EmployeeDepartment)
-            </th>
-            @*<th>
-                @Html.DisplayNameFor(model => model.EmployeeAddress)
-            </th>*@
-            @*<th>
-                @Html.DisplayNameFor(model => model.EmployeeDescription)
-            </th>*@
-            <th></th>
-        </tr>
-    </thead>
-    <tbody>
-@foreach (var item in Model) {
-        <tr>
-            <td>
-                @Html.DisplayFor(modelItem => item.EmployeeName)
-            </td>
-            @*<td>
-                @Html.DisplayFor(modelItem => item.EmployeeAge)
-            </td>*@
-            <td>
-                @Html.DisplayFor(modelItem => item.EmployeeDesignation)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.EmployeeDepartment)
-            </td>
-            @*<td>
-                @Html.DisplayFor(modelItem => item.EmployeeAddress)
-            </td>
-            <td>
-                @Html.DisplayFor(modelItem => item.EmployeeDescription)
-            </td>*@
-            <td>
-                <a asp-action="Edit" asp-route-id="@item.EmployeeId">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.EmployeeId">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.EmployeeId">Delete</a>
-            </td>
-        </tr>
+<h1 style="text-align:center">Index</h1>
+<h3 style="text-align:center">Employee Dashboard</h3>
+@section scripts
+{
+    <script>
+        Swal.fire(
+            'Good job!',
+            'You clicked the button!',
+            'success'
+        )</script>
 }
+
+@*<p>
+    <a asp-action="List">View List</a>
+</p>*@
+
+<div class="input-group container1">
+    <div>
+        <p>
+            <a asp-action="Create" class="button" style="background-color:orangered">New Registartion</a>
+        </p>
+
+    </div>
+    <div>
+        <form asp-action="Index">
+            <div class="input-group cs1">
+
+                <input type="text" name="child" placeholder="Search" aria-label="Search" class="user-box " />
+                <input type="submit" value=" search" id="basic-text1" />
+
+            </div>
+        </form>
+    </div>
+</div>
+
+@*@section scripts{
+    <script>
+        $(function () {
+            $("basic-text1").click(function () {
+                $("Form").submit();
+            })
+        });
+    </script>
+}*@
+
+<table class="table table-bordered table-striped">
+    <tr style="background-color:blueviolet">
+        <th>Actions</th>
+        <th>EmployeeName</th>
+        <th>EmployeeDepartment</th>
+        <th>EmployeeDesignation</th>
+        @*<th>@Html.DisplayNameFor(model => model.EmployeeName) </th>
+        <th>@Html.DisplayNameFor(model => model.EmployeeDepartment) </th>
+        <th>@Html.DisplayNameFor(model => model.EmployeeDesignation) </th>*@
+    </tr>
+    <tbody>
+    @foreach(var temp in Model)
+    {
+        <tr>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@temp.EmployeeId" class="button">Edit</a> |
+                    <a asp-action="Details" asp-route-id="@temp.EmployeeId" class="button button2">Details</a> |
+                    <a asp-action="Delete" asp-route-id="@temp.EmployeeId" class="button button3">Delete</a> |
+                </td>
+                <td> @Html.DisplayFor(item => temp.EmployeeName)</td>
+                <td> @Html.DisplayFor(item => temp.EmployeeDepartment)</td>
+                <td> @Html.DisplayFor(item => temp.EmployeeDesignation)</td>
+        </tr>
+    }
     </tbody>
 </table>
+
+<partial name="/Views/Home/Footer.cshtml" />
+

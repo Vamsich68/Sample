@@ -1,0 +1,30 @@
+﻿
+
+
+@if(User ==null || User.Identity== null|| User.Identity.IsAuthenticated){
+    <div class="pull-right">
+        Welcome : @User?.Identity?.Name
+        <a class="btn btn-link" href="/Account/Logout">LogOut</a>
+        @*<form method="post" class="form-check-inline" asp-page="/Account/Logout">
+            Welcome : @User?.Identity?.Name
+            <button class="m-lg-2 btn btn-link" style="background-color:aquamarine" type="submit">LogOut</button>
+        </form>*@
+
+    </div>
+
+}
+else
+{
+    <div class="pull-right">
+        <a class="btn btn-link" href="/Account/Login">Login</a>
+        @*<form method="get" class="form-check-inline" asp-page="/Account/Login">
+           Please log in
+            <button class="m-lg-2 btn btn-link" style="background-color:aquamarine" type="submit">Login</button>
+        </form>*@
+
+    </div>
+}
+
+
+
+
